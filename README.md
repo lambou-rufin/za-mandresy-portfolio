@@ -1,4 +1,3 @@
-# za-mandresy-portfolio
 # 🎥 Za Mandresy – Plateforme de streaming malgache 🇲🇬
 
 > Projet réalisé en freelance (Janvier 2025 – Juin 2025) pour la société Mandresy
@@ -10,9 +9,8 @@ Développeur FullStack JavaScript, responsable de la conception et de l’implé
 - 📹 **Streaming vidéo HLS** (FFmpeg, serveur sécurisé)
 - 📤 **Upload vidéo par chunk** avec reprise automatique
 - 💳 **Paiement par abonnement** (Stripe, Mvola, Airtel, Orange Money)
-- 🧾 **Système de facturation & abonnements**
 - 🧰 **Backend** Node.js, TypeORM, Redis, Bull pour traitement vidéo
-- 🎨 **Frontend** avec React.js, Redux, TypeScript, Tailwind CSS
+- 🎨 **Frontend** avec React.js, Redux, TypeScript
 
 ## 🌐 Stack technique
 | Frontend       | Backend        | Paiement       | Autres               |
@@ -28,4 +26,4 @@ Ce dépôt est une **présentation de mon travail**. Le code source est privé, 
 ---
 
 ### ✉️ Contact
-Si vous souhaitez me contacter : [LinkedIn](https://www.linkedin.com/in/ruffin-dev) – ruffin@example.com
+Si vous souhaitez me contacter : [LinkedIn](https://www.linkedin.com/in/rufin-lamboandrianirina-a97154242/) – lambonirinarufin@gmail.com
