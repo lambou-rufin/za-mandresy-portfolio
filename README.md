@@ -1,4 +1,4 @@
-# 🎥 Za Mandresy – Plateforme de streaming malgache 🇲🇬
+# 🎥 Za Mandresy – Plateforme de streaming Malagasy 🇲🇬
 
 > Projet réalisé en freelance (Janvier 2025 – Juin 2025) pour la société Mandresy
 
